@@ -1,3 +1,5 @@
+import com.sun.tools.javac.Main
+
 plugins {
     id 'java'
     id 'application'
@@ -25,3 +27,5 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+mainClassName = Main
