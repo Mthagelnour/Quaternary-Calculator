@@ -7,7 +7,7 @@ plugins {
 
 javafx {
     version = "18.0.2"
-    modules = [ 'javafx.controls' ]
+    modules = [ 'javafx.controls', 'javafx.fxml']
 }
 
 group 'org.example'
@@ -19,8 +19,8 @@ repositories {
 
 dependencies {
 
-    implementation 'org.testng:testng:7.1.0'
-    implementation 'junit:junit:4.13.1'
+    implementation 'org.testng:testng:7.6.1'
+    implementation 'junit:junit:4.13.2'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.9.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.9.0'
 }
@@ -37,4 +37,4 @@ sourceSets {
     }
 }
 
-mainClassName = 'view.gui'
+mainClassName = 'view.GUI'
