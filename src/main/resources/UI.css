@@ -29,5 +29,20 @@
     -fx-background-color: orange;
 }
 
+#button0 {
+    -fx-background-color: grey;
+}
+
+#button1 {
+    -fx-background-color: grey;
+}
+
+#button2 {
+    -fx-background-color: grey;
+}
+
+#button3 {
+    -fx-background-color: grey;
+}
 
 
