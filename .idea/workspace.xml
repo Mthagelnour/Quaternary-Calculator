@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079adf17-395a-420e-8aea-bff5119a0368" name="Changes" comment="Update UI button spacing">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/calculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/calculatorTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="079adf17-395a-420e-8aea-bff5119a0368" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +159,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662486340061</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fixed test compatibility for OOP approach">
+      <created>1662575346540</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662575346540</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -190,6 +191,7 @@
     <MESSAGE value="Add Controller.java for UI" />
     <MESSAGE value="Update GUI(main) to include fxml" />
     <MESSAGE value="Update UI button spacing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update UI button spacing" />
+    <MESSAGE value="Fixed test compatibility for OOP approach" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed test compatibility for OOP approach" />
   </component>
 </project>
