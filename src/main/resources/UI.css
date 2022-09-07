@@ -8,5 +8,26 @@
 
 }
 
+.button{
+    -fx-background-radius: 5em;
+    -fx-min-width: 60px;
+    -fx-min-height: 60px;
+    -fx-max-width: 60px;
+    -fx-max-height: 60px;
+}
+
+#additionButton {
+    -fx-background-color: orange;
+}
+#subtractionButton {
+    -fx-background-color: orange;
+}
+#multiplicationButton {
+    -fx-background-color: orange;
+}
+#divisionButton {
+    -fx-background-color: orange;
+}
+
 
 
