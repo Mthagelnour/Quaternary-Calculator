@@ -1,8 +1,9 @@
 package model;
 
-public class calculator {
+public class Calculator {
 
-    public int toDecimal(int quaternaryNumber) {
+    public int toDecimal(Integer quaternaryNumber) {
+        Calculator calc  = new Calculator();
         int num = 0;
         int j = 0;
         char[] digitList = String.valueOf(quaternaryNumber).toCharArray();
@@ -12,7 +13,8 @@ public class calculator {
         }
         return num;
     }
-    public int toQuaternary(int decimalNumber) {
+
+    public static int toQuaternary(int decimalNumber) {
         String quaternary = "";
         while (decimalNumber > 0) {
             quaternary += (decimalNumber % 4);
