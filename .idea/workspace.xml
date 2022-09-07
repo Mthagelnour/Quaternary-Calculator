@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079adf17-395a-420e-8aea-bff5119a0368" name="Changes" comment="Update GUI(main) to include fxml">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    <list default="true" id="079adf17-395a-420e-8aea-bff5119a0368" name="Changes" comment="Update UI button spacing">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UI.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/UI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/UI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/UI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/UI.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +65,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="2EP9PPKwQJ7lkYeMoQnx6CYtZ2u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RecentsManager">
@@ -102,6 +114,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="Update build.gradle&#10;Add java fxml dependency">
       <created>1662483125882</created>
@@ -138,8 +151,25 @@
       <option name="project" value="LOCAL" />
       <updated>1662483387323</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update UI button spacing">
+      <created>1662483592409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662483592409</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="079adf17-395a-420e-8aea-bff5119a0368" name="Changes" comment="Update UI button spacing" />
+      <created>1662486340061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662486340061</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -154,11 +184,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update build.gradle&#10;Add java fxml dependency" />
     <MESSAGE value="Update project configurations" />
     <MESSAGE value="Create project interface" />
     <MESSAGE value="Add Controller.java for UI" />
     <MESSAGE value="Update GUI(main) to include fxml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update GUI(main) to include fxml" />
+    <MESSAGE value="Update UI button spacing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update UI button spacing" />
   </component>
 </project>
