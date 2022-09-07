@@ -5,7 +5,7 @@ public class calculator {
     public int toDecimal(int quaternaryNumber) {
         int num = 0;
         int j = 0;
-        char[] digitList = quaternaryNumber.toString().toCharArray();
+        char[] digitList = String.valueOf(quaternaryNumber).toCharArray();
         for (int i = digitList.length-1; i >= 0; i--){
             num += Integer.parseInt(String.valueOf(digitList[i])) * Math.pow(4, j);
             j++;
